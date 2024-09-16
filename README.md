@@ -12,8 +12,6 @@
 
 먼저, [http://localhost:8080/signup](http://localhost:8082/signup)으로 이동하여 계정을 등록합니다.
 
-![회원가입 화면](image)
-
 ### 2. 2단계 인증 비활성 상태로 로그인
 
 회원가입 후 로그아웃합니다.
