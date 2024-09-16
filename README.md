@@ -10,7 +10,7 @@
 
 ### 1. 회원가입
 
-먼저, [http://localhost:8080/signup](http://localhost:8082/signup)으로 이동하여 계정을 등록합니다.
+먼저, (http://localhost:8082/signup)으로 이동하여 계정을 등록합니다.
 
 ### 2. 2단계 인증 비활성 상태로 로그인
 
