@@ -1,7 +1,3 @@
-다음은 Spring Security를 사용하여 구현된 2단계 인증(2FA) 데모의 README 파일을 한국어로 작성한 예시입니다:
-
----
-
 # 2단계 인증(2FA) 데모
 
 이 프로젝트는 Spring Security를 사용하여 2단계 인증(2FA)을 구현한 예제입니다. 2FA는 기본적으로 비활성화되어 있으며, 활성화 시 Google Authenticator를 사용하여 추가적인 보안 단계를 제공합니다.
